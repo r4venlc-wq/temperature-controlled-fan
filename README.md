@@ -19,3 +19,6 @@ The fan automatically turns on when the temperature exceeds a set threshold and 
 - Controlling a DC motor
 - Basic Arduino programming
 - Using Tinkercad to simulate electronics
+
+## Circuit
+https://www.tinkercad.com/things/eUUb1E7cqag-temperature-controlled-fan?sharecode=29HvRurQzSkWAB4Y3Ifmf9ypLnblgSqKE63t9CHt3RU
